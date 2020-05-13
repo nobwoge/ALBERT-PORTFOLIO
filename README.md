@@ -1,6 +1,6 @@
 # ALBERT OBWOGE PORTFOLIO
 #### 
-A brief introduction for myself ,as at APRIL 2020,
+A brief introduction about myself ,as at APRIL 2020,
 #### AUTHOR
 By ALBERT OBWOGE
 ## Description
