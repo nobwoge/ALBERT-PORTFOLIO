@@ -9,7 +9,7 @@ The summary provided covers my professional background from college to working l
 Clone this repository to a location in your file system. git clone https://github.com/Albert-beg/Akan-Names.git, Open terminal command line then navigate to the root folder of the application. cd Akan-Names,Open index.html on your Browser.
 ## Known Bugs
 Incase of a bug,you are allowed to make changes.This will be accompanied with sufficient sample tests. 
-Link to Live Site : https://albert-beg.github.io/Akan-Names/
+Link to Live Site : https://albert-beg.github.io/ALBERT-PORTFOLIO/
 ## Technologies Used
 Used HTML CSS JavaScript
 ## Support and contact details
