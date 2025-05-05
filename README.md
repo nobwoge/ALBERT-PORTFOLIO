@@ -15,7 +15,7 @@ Used HTML CSS JavaScript
 ## Support and contact details
 albertnyambegaa@gmail.com , twitter ,@Albert_obwoge
 ### License
-MIT Copyright (c) 2020 Albert Obwoge
+MIT Copyright (c) 2025 Albert Obwoge
 
 
 
